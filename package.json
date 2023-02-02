@@ -1,0 +1,7 @@
+{
+  "name": "themes",
+  "packageManager": "yarn@3.3.1",
+  "workspace": ["packages/*"],
+  "private": true,
+  "scripts": {}
+}
